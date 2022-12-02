@@ -1,2 +1,10 @@
 # corpus_raw_data
 Raw data of the ORAEC corpus
+
+## Overview
+
+| file | license | author | source |
+| ------------- | ------------- | ------------- |:-------------:|
+| mapping_oraec_trismegistos.csv | cc0 | ORAEC | |
+| oraec_hierarchical_path.tsv | cc-by-sa-4.0 | Burkhard Backes, Susanne Beck, Marc Brose, Adelheid Burkhardt, Roberto A. Díaz Hernández, Peter Dils, Roland Enmarch, Frank Feder, Heinz Felber, Silke Grallert, Stefan Grunert, Ingelore Hafemann, Anne Herzberg, John M. Iskander, Ines Köhler, Renata Landgrafova, Verena Lepper, Lutz Popko, Alexander Schütze, Stephan Seidlmayer, Gunnar Sperveslage, Susanne Töpfer, Doris Topmann, Altägyptisches Wörterbuch | [Teilauszug der Datenbank des Vorhabens "Strukturen und Transformationen des Wortschatzes der ägyptischen Sprache" vom Januar 2018](https://nbn-resolving.org/urn:nbn:de:kobv:b4-opus4-29190) |
+| oraec1.json .. oraec13026.json | cc-by-sa-4.0 | Burkhard Backes, Susanne Beck, Marc Brose, Adelheid Burkhardt, Roberto A. Díaz Hernández, Peter Dils, Roland Enmarch, Frank Feder, Heinz Felber, Silke Grallert, Stefan Grunert, Ingelore Hafemann, Anne Herzberg, John M. Iskander, Ines Köhler, Renata Landgrafova, Verena Lepper, Lutz Popko, Alexander Schütze, Stephan Seidlmayer, Gunnar Sperveslage, Susanne Töpfer, Doris Topmann, Altägyptisches Wörterbuch | [AED](https://simondschweitzer.github.io/aed/), [AES](https://github.com/simondschweitzer/aes) |
